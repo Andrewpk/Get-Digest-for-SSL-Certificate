@@ -2,7 +2,7 @@
 Simple script to get a specified digest for a SSL certificate
 
 # Usage
-```php
+```bash
 php getDigest.php ServerCertificate.crt SHA256
 ```
 
